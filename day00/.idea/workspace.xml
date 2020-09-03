@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66815d0e-7acb-40f2-aa73-a4100e73ff23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.1" />
+  <component name="ProjectId" id="1gzatbPqsATMzdR2wHUxPlokCaL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build day00/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="day00" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <parameters value="-mmd" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1080" y="356" key="#GOPATH" timestamp="1599120330427">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1080" y="356" key="#GOPATH/0.23.2560.1337@0.23.2560.1337" timestamp="1599120330427" />
+    <state x="1006" y="522" key="#Notifications" timestamp="1599120159196">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1006" y="522" key="#Notifications/0.23.2560.1337@0.23.2560.1337" timestamp="1599120159196" />
+    <state x="744" y="353" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599142434303">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="744" y="353" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599142434303" />
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom" timestamp="1599143215404">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1599143215404" />
+    <state width="1358" height="197" key="GridCell.Tab.0.center" timestamp="1599143215403">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1599143215403" />
+    <state width="1358" height="197" key="GridCell.Tab.0.left" timestamp="1599143215403">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1599143215403" />
+    <state width="1358" height="197" key="GridCell.Tab.0.right" timestamp="1599143215404">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1599143215404" />
+    <state x="789" y="330" key="SettingsEditor" timestamp="1599120277925">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="789" y="330" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1599120277925" />
+    <state x="1162" y="542" key="cloudConfig.SelfSettingsDialog" timestamp="1599120184707">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1162" y="542" key="cloudConfig.SelfSettingsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599120184707" />
+  </component>
+</project>
