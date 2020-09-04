@@ -56,5 +56,5 @@ func main() {
 		ftCheckArgs(args)
 	}
 	numbers := ftParsing()
-	fmt.Println(numbers)
+	ftCountMetrics(args, numbers)
 }
